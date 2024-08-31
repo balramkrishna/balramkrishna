@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @balramkrishna
-- 👀 I’m interested in Java Script , Python 
-- 🌱 I’m currently learning both the above 
+- 👀 I’m interested in Java Script , Python,React 
+- 🌱 I have done project in the above
 - 💞️ I’m looking to collaborate on GIS Developer
 - 📫 How to reach me ...
 
